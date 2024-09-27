@@ -5,7 +5,7 @@ import (
     "github.com/gin-gonic/gin"
     "gorm.io/driver/postgres"
     "gorm.io/gorm"
-    "go-next/controllers" // เปลี่ยนให้ตรงกับ path ของโปรเจกต์
+    "go-next/controllers" 
     "go-next/models"
 )
 
